@@ -7,4 +7,5 @@ git checkout -d dev&feature1&bug
 git checkout -b feature1
 git checkout -b bug
 add merge
-test go 
+test go
+add start.sh 
